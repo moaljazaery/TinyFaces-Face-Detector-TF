@@ -1,6 +1,7 @@
 # Tiny Face Detector class in TensorFlow
- This code is write of [Tiny_Faces_in_Tensorflow] (https://github.com/cydonia999/Tiny_Faces_in_Tensorflow) which is
- A TensorFlow port(inference only) of Tiny Face Detector from [authors' MatConvNet codes](https://github.com/peiyunh/tiny).
+ This code is a trial to revamp the code [Tiny_Faces_in_Tensorflow](https://github.com/cydonia999/Tiny_Faces_in_Tensorflow) which is a TensorFlow port(inference only) of Tiny Face Detector from [authors' MatConvNet codes](https://github.com/peiyunh/tiny).
+ 
+ + dlib face aligner is added
 
 
 ## Converting a pretrained model
