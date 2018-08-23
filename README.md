@@ -5,6 +5,10 @@
 
 
 ## Converting a pretrained model
+You can download the converted model from here 
+[Tinyface Model](https://drive.google.com/open?id=1m8dcxNdFAH75Q5BSvyVXeVlerSS0y0LE)
+
+Or you can flow this to convert the model:
 
 `matconvnet_hr101_to_pickle` reads weights of the MatConvNet pretrained model and
 write back to a pickle file which is used in a TensorFlow model as initial weights.
